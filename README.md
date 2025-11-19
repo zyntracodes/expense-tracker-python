@@ -20,5 +20,6 @@ python expense_tracker.py
 2025-11-19 15:22 | ₹120 | Food | Maggie & Tea
 
 ## Author
-Santajeet  
+Santajeet(Zyntra Codes)  
 GitHub: https://github.com/zyntracodes
+
